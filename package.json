@@ -1,0 +1,32 @@
+{
+  "name": "pub-sub-example",
+  "version": "0.0.1",
+  "description": "just playing with node.js pub-sub application with redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doron2402/pub-sub.git"
+  },
+  "keywords": [
+    "node.js",
+    "pub-sub",
+    "redis"
+  ],
+  "author": "Doron Segal",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/doron2402/pub-sub/issues"
+  },
+  "homepage": "https://github.com/doron2402/pub-sub",
+  "dependencies": {
+    "redis": "~0.10.0",
+    "mime": "~1.2.11",
+    "ws": "~0.4.31"
+  },
+  "devDependencies": {
+    "nodemon": "~1.0.7"
+  }
+}

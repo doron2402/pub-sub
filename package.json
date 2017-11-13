@@ -24,7 +24,7 @@
   "dependencies": {
     "redis": "~0.10.0",
     "mime": "~1.2.11",
-    "ws": "~0.4.31"
+    "ws": "~3.3.1"
   },
   "devDependencies": {
     "nodemon": "~1.0.7"

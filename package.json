@@ -23,7 +23,7 @@
   "homepage": "https://github.com/doron2402/pub-sub",
   "dependencies": {
     "redis": "~0.10.0",
-    "mime": "~1.2.11",
+    "mime": "~1.4.1",
     "ws": "~0.4.31"
   },
   "devDependencies": {
